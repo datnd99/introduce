@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @datnd99
 - 🌻 I'm a Reactjs Developer
-- 👀 I’m interested in walk, swim, sleep; sometime cooking.
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in walking, swimming, and sometimes cooking.
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on AWS
 
 <!---
